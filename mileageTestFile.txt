@@ -1,0 +1,27 @@
+Brian Smith
+604 Beta Ct, Campbell
+46000
+Mobile App Development
+3700 Middlefield Road, Palo Alto
+06/21-06/25
+17
+5
+y
+Minecraft with Python
+266 Escuela Ave, Mountain View
+07/06-07/09
+15
+4
+y
+Minecraft with Python
+3700 Middlefield Road, Palo Alto
+07/19-07/23
+17
+5
+y
+Minecraft with Python
+266 Escuela Ave, Mountain View
+07/26-07/30
+15
+5
+n

@@ -1,0 +1,40 @@
+Margarita Pitcher
+45
+1
+Brian, Mel, Ian, Jess
+y
+Parrilladas
+38
+1
+Dylan, Mel
+y
+Camote
+7
+2
+Brian, Ian, Jess, Mel, Dylan
+y
+Pazole
+13
+1
+Dylan
+y
+Quesadillas
+15
+2
+Brian, Jess
+y
+Salmon Tacos
+19
+1
+Ian
+y
+Tacos Dorados de Papa
+9
+1
+Jess
+n
+20.96
+33.60
+13
+Dylan
+\n

@@ -1,0 +1,53 @@
+Nachos
+21
+2
+Brian, Mel, Ian, Jess, Dylan, Melanie,  Em, Nicole
+y
+Margaritas
+52
+3
+Brian, Mel, Ian, Jess, Dylan, Melanie,  Em, Kayden, Bri, Nicole
+y
+Guacamole
+12
+1
+Brian, Mel, Ian, Jess, Dylan, Melanie,  Em, Kayden, Bri, Nicole
+y
+Taco de Camaron
+6
+3
+Ian
+y
+Quesabirria
+18
+1
+Jess
+y
+Quesadilla de Nortena
+12
+1
+Kayden
+y
+Taco de Hongos
+5
+1
+Nicole
+y
+Birthday Churros
+5
+1
+Brian, Mel, Ian, Jess, Dylan, Melanie, Em, Kayden, Bri, Nicole
+y
+Totopos Salsa
+5
+2
+Brian, Mel, Ian, Jess, Dylan, Melanie, Em, Kayden, Bri, Nicole
+y
+Surcharge
+13.90
+1
+Brian, Mel, Ian, Jess, Dylan, Melanie, Em, Kayden, Bri, Nicole
+n
+32.06
+63.94
+\n
